@@ -1,0 +1,30 @@
+.people {
+  .anticon-loading {
+    position: absolute;
+    display: inline-block;
+    opacity: 1;
+    align-self: center;
+    top: 50%;
+    color: #064b91;
+  }
+  .gx-app-module {
+    margin-top: 3px;
+  }
+}
+.ant-row{
+  width: 100%;
+  padding: 6px;
+}
+
+.ant-empty, .anticon-loading {
+  position: absolute;
+  display: inline-block;
+  opacity: 1;
+  align-self: center;
+  top: 50%;
+  left: 50%;
+  color: #064b91;
+}
+.ant-space{
+  justify-content: flex-end;
+}
